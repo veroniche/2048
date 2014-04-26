@@ -405,12 +405,12 @@ hr {
     font-size: 16px; 
     color: #354b59;}
   .tile.tile-2 .tile-inner {
-    background: url('https://raw.githubusercontent.com/veroniche/2048/gh-pages/tile-sets/got/2.jpg');
+    background: url('../tile-sets/got/2.jpg');
     background-size: cover;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('https://raw.githubusercontent.com/veroniche/2048/gh-pages/tile-sets/got/4.PNG');
+    background: url('../tile-sets/got/4.PNG');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
